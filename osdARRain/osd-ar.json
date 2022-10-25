@@ -1,0 +1,7 @@
+{
+  "disableScroll": true,
+  "navigationBarTitleText": "单样本检测(OSD)",
+  "usingComponents": {
+    "sol-packet-rain": "./../redPacketRain/components/packet-rain/index"
+  }
+}

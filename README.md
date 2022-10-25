@@ -1,1 +1,0 @@
-# productScan-redPacketRain
