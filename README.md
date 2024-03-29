@@ -1,5 +1,5 @@
 # productScan-redPacketRain
-微信小程序 商品扫描降红包雨 OSD AI/AR Canvas
+微信小程序 扫描商品后降红包雨 OSD AI/AR Canvas
 
 
 参考：
